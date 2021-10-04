@@ -1,2 +1,1 @@
-# minthurazaw.github.io
- My personal site
+# My personal site avaliable at https://minthurazaw.me/
